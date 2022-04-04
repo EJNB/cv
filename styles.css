@@ -200,7 +200,12 @@ p {
   color: #333;
 }
 
-.about .box .text ul li a {
+.about.skills li {
+  list-style: none;
+}
+
+.about .box .text ul li a,
+.about.skills li a {
   color: #03a9fa;
   text-decoration: none;
 }
