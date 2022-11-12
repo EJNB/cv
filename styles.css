@@ -145,6 +145,10 @@ body {
   background-color: #03a9f4;
 }
 
+.contactInfo span.text > a {
+  color: inherit;
+}
+
 .container .right_Side {
   position: relative;
   background: #fff;
